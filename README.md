@@ -1,7 +1,7 @@
 ###本文档长期更新，包括测试相关的面试题和知识点等
 
 ###移动无线测试技能树
-- ###常用IDE
+- 常用IDE
 	- Android
 		- ADT
 		- Android Studio
@@ -185,7 +185,7 @@
 	- 蒲公英
 	- fir
 	- pre
-- ###常用云测平台
+- 常用云测平台
 	- testin
 	- MQC
 	- MTC
